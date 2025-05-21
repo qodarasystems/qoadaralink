@@ -1,12 +1,72 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Qodara LinkTree
 
-Currently, two official plugins are available:
+Este repositório contém o LinkTree oficial da Qodara, uma empresa especializada no desenvolvimento de soluções de software personalizadas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O objetivo deste projeto é centralizar e compartilhar de forma organizada todos os links relevantes da Qodara, incluindo nosso site oficial, redes sociais, produtos, serviços e outros recursos importantes.
 
-## Expanding the ESLint configuration
+## 🌐 Acesse o LinkTree
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [https://qodaralink.vercel.app](https://qodaralink.vercel.app)
+
+## 🚀 Sobre a Qodara
+
+Na Qodara, desenvolvemos soluções de software sob medida para atender às necessidades específicas de nossos clientes. Nosso foco é entender profundamente cada negócio e oferecer sistemas que realmente façam a diferença.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **React**
+- **Vercel** - para hospedagem
+
+## 📦 Como clonar e rodar localmente
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/qodarasystems/qodaralink.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd qodaralink
+```
+
+3. Instale as dependências (caso utilize):
+
+```bash
+npm install
+```
+
+4. Inicie o projeto localmente:
+
+```bash
+npm run dev
+```
+
+ou conforme o gerenciador de pacotes e o ambiente utilizado.
+
+## ✅ Funcionalidades
+
+- Exibição organizada de todos os links relevantes da empresa.
+- Interface simples e objetiva.
+- Deploy automatizado via Vercel.
+
+## 💡 Como contribuir
+
+1. Faça um fork deste repositório.
+2. Crie uma branch: `git checkout -b feature/sua-feature`
+3. Commit suas alterações: `git commit -m 'feat: sua feature'`
+4. Push para a branch: `git push origin feature/sua-feature`
+5. Abra um Pull Request.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+Feito com 💙 pela equipe da [Qodara](https://qodaralink.vercel.app)
